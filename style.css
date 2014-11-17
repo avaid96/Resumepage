@@ -1,0 +1,45 @@
+.headbar {
+	
+}
+.headfloat {
+	float:left;
+	width: 50%;
+	background-color: #1C0921;
+	height:60px;
+	margin: 0px;
+	color: white;
+}
+#aviname{
+	font-size:55px;
+	padding-left: 30px;
+	margin-top: 0px;
+}
+#emailandpdf{
+	text-align: right;
+	margin-top: 0px;
+}
+hr{
+	color: #C281E5;
+}
+.navcolumn{
+	width: 20%;
+	float:left;
+	text-align: center;
+	color: gray;
+	height: 33px;
+	margin-top: -12px;
+}
+a:link {
+    text-decoration: none;
+    color: #1C0921;
+}
+a:visited {
+	color: #1C0921;
+}
+a:hover{
+	color: #7D5379;
+}
+#containfixed{
+	position:fixed;
+	width:99%;
+}
